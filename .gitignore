@@ -1,0 +1,22 @@
+# standard
+.standards/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+node_modules/
+target/
+.coverage
+coverage/
+.pytest_cache/
+.ruff_cache/
